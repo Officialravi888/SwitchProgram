@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8b09d52-aeb5-4d89-a066-db0733cc5b63" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Hello/empty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Switch_Example/SwitchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Switch_Example/SwitchExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Switch_Example/SwitchExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Switch_Example/SwitchExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Switch_Example/SwitchExample4.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IZcU91BBzCU7DdozXGd5K92IG9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "project.propDebugger"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.Hello" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SwitchExample4">
+    <configuration name="SwitchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Switch_Example.SwitchExample" />
+      <module name="JavaFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Switch_Example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Switch_Example.SwitchExample1" />
+      <module name="JavaFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Switch_Example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Switch_Example.SwitchExample2" />
+      <module name="JavaFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Switch_Example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Switch_Example.SwitchExample3" />
+      <module name="JavaFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Switch_Example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchExample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Switch_Example.SwitchExample4" />
+      <module name="JavaFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Switch_Example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SwitchExample4" />
+        <item itemvalue="Application.SwitchExample3" />
+        <item itemvalue="Application.SwitchExample2" />
+        <item itemvalue="Application.SwitchExample1" />
+        <item itemvalue="Application.SwitchExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8b09d52-aeb5-4d89-a066-db0733cc5b63" name="Changes" comment="" />
+      <created>1670392558942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670392558942</updated>
+    </task>
+    <servers />
+  </component>
+</project>
